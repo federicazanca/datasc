@@ -1,1 +1,2 @@
 # datasc
+Data science exercises
