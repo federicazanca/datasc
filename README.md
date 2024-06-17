@@ -1,2 +1,3 @@
 # datasc
-Data science exercises
+Some data science exercises from IBM data science professional certificate courses
+
